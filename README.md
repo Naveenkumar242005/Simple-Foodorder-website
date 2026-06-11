@@ -16,7 +16,7 @@ A beginner-friendly food ordering website built using HTML5 and CSS3.
 - CSS3
 
 ## View Here
-2. Open `index.html` in any web browser
+2. Open in any web browser https://naveenkumar242005.github.io/Simple-Foodorder-website/
 
 ## Author
 
